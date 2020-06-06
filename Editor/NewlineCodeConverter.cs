@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using UnityEditor;
 
-namespace UniNewlineCodeConverter
+namespace Kogane
 {
 	/// <summary>
 	/// アセットインポート時に改行コードを Unix から Win に変換するエディタ拡張 
