@@ -82,7 +82,7 @@ namespace Kogane
 			}
 
 			OnComplete?.Invoke( result );
-#endif
 		}
+#endif
 	}
 }
